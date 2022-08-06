@@ -1,0 +1,9 @@
+Custname  custId  custdob  custemailid
+
+Sibi       101     2000     sibi@123
+
+somu       102     2001      somu@123
+
+sexy       103     1999       sexy@123
+
+hotty      104     2000       hotty@123
